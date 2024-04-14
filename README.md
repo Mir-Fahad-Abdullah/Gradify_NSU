@@ -1,6 +1,9 @@
 # Title: NSU CGPA Calculator
 ## Project Overview
-This project introduces a CGPA calculator according to the NSU (North South University) greading policy.
+This project introduces a CGPA calculator according to the NSU (North South University) greading policy. 
+**Language used:**
+* Java
+* JavaFX
 
 **NSU grading policy:**
 
