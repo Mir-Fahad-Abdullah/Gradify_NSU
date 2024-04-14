@@ -2,7 +2,7 @@
 ## Project Overview
 This project introduces a CGPA calculator that is capable of calculating CGPA according to the NSU (North South University) grading policy using **Java** and **JavaFX**.
 
-**NSU grading policy:**
+**NSU grading policy:** 
 
 | Scores | Grade | Points |
 | --- | --- | --- |
