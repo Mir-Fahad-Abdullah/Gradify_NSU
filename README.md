@@ -1,1 +1,2 @@
-# NSU-CGPA-Calculator-Using-JavaFX
+# NSU CGPA Calculator
+
