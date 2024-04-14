@@ -1,4 +1,4 @@
-# Title: NSU CGPA Calculator
+# Title: Gradify_NSU
 ## Project Overview
 This project introduces a CGPA calculator that is capable of calculating CGPA according to the NSU (North South University) greading policy using **Java** and **JavaFX**.
 
